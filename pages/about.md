@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 居住在二次元的魔法师
+keywords: smallclover
 comments: true
 menu: 关于
 permalink: /about/
@@ -36,3 +36,6 @@ permalink: /about/
     <button class="btn btn-outline" type="button">{{ keyword }}</button>
     {% endfor %}
 </div>
+
+## 感谢
+  * 码志：[@mzlogin](http://mazhuang.org/) 提供的博客模板
