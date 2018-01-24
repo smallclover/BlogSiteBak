@@ -1,0 +1,32 @@
+{ 
+   "version":"Sample 1.0.0", 
+   "model":"murakumo2.moc", 
+   "textures":[ 
+      "murakumo2.2048/texture_00.png"  
+   ], 
+   "motions":{ 
+      "idle":[   
+         {"file":"motions/port.mtn"}, 
+         {"file":"motions/loop.mtn"}, 
+         {"file":"motions/port.mtn"}, 
+         {"file":"motions/loop.mtn"}, 
+         {"file":"motions/battle.mtn"} 
+      ], 
+      "sleepy":[    
+         {"file":"motions/secret.mtn"} 
+      ], 
+      "voice_2":[     
+         {"file":"motions/battle.mtn"}    
+      ],                                                       
+      "voice_3":[ 
+         {"file":"motions/loop.mtn"} 
+      ], 
+      "voice_4":[ 
+         {"file":"motions/port.mtn"} 
+      ], 
+      "voice_28":[ 
+         {"file":"motions/secret.mtn"} 
+      ] 
+   },
+   "physics":"murakumo2.physics.json"
+}
