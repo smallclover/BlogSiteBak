@@ -16,9 +16,9 @@
 如：显示物理卷信息的命令是pvdisplay
 
 |功能/命令|物理卷管理|卷组管理|逻辑卷管理|
------------|------------|-----------|------------|
+|-----------|------------|-----------|------------|
 |扫描|pvscan|vgscan|lvscan|
 |建立|pvcreate|pvcreate|lvcreate|
 |显示|pvdisplay|vgdisplay|lvdisplay|
-|删除|pvremove|vgremove|lvremove||
-|扩展||vgextend|lvextend|
+|删除|pvremove|vgremove|lvremove|
+|扩展|vgextend|lvextend|
