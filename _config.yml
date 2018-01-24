@@ -5,7 +5,7 @@ baseurl:
 url: http://www.smallclover.com
 date_format: "ordinal"
 title: smallclover
-subtitle: "世界は私が守る！"
+subtitle: "愿我用代码谱写那最美好的曲子，飘进那悠远的幻想乡，与灵梦一起聆听"
 description: "smallclover的个人博客"
 keywords: smallclover
 favicon: /favicon.ico
@@ -17,9 +17,9 @@ side_bar_repo_limit: 1
 #      Author      #
 # ---------------- #
 author: smallclover
-organization: 
-organization_url: 
-location: QingDao, China
+organization: 未来道具研究所 
+organization_url: https://github.com/Future-Gadget-Laboratory
+location: tokyo, Japan
 email: 18363998103@163.com
 
 # ---------------- #
