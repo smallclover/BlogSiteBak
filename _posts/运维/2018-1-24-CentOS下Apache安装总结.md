@@ -1,11 +1,19 @@
+---
+layout: post
+title: CentOS下Apache安装总结
+categories: 运维
+description: CentOS下Apache安装总结
+keywords: CentOS, Apache, smallclover
+---
 # CentOS下Apache安装总结
+
 ## 环境（Environment）
 
 操作系统：CentOS 6.8
 服务器：Apache 2.4.29
 其他关键依赖库：apr 1.6.3、apr-util 1.6.1、pcre-8.41
 
-##  命令（Command）
+## 命令（Command）
 
 + 解压命令
 
@@ -21,7 +29,6 @@ rpm -e --nodeps [software-full-name]|卸载指定名称的软件|--nodeps：不�
 + 编译安装（make install）
 
 ## 问题（problem）
-
 
 发生时间|**错误内容**|解决方案（个人）|解决方案（网络）|权重
 ----------|----------|--------------------|-------------------|---------

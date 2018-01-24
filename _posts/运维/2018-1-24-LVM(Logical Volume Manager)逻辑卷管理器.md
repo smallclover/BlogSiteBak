@@ -1,3 +1,10 @@
+---
+layout: post
+title: LVM(Logical Volume Manager)逻辑卷管理器
+categories: 运维
+description: 介绍LVM逻辑卷管理器
+keywords: 运维, Linux, LVM
+---
 # LVM(Logical Volume Manager)逻辑卷管理器
 
 ## 名词
