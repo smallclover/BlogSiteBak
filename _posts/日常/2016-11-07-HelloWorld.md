@@ -1,7 +1,7 @@
 ---
 layout: post
 title: HelloWorld
-categories: Blog
+categories: 日常
 description: smallclover网站的HelloWorld
 keywords: HelloWorld
 ---
