@@ -50,7 +50,7 @@ var LAppDefine = {
 */
 
     // //丛云改二模型
-    // MODEL_MURAKUMO : "murakumo2/murakumo2.model.json",
+    // MODEL_MURAKUMO : "/murakumo2/murakumo2.model.json",
     
     // MOTION_GROUP_IDLE : "idle", 
     // MOTION_GROUP_TAP : "tap", 
@@ -66,7 +66,7 @@ var LAppDefine = {
 
     
     //丛云模型
-    MODEL_MURAKUMO : "murakumo/murakumo.model.json",
+    MODEL_MURAKUMO : "/murakumo/murakumo.model.json",
     
     
     MOTION_GROUP_IDLE : "idle", 
