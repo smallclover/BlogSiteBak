@@ -21,4 +21,4 @@
 |建立|pvcreate|pvcreate|lvcreate|
 |显示|pvdisplay|vgdisplay|lvdisplay|
 |删除|pvremove|vgremove|lvremove|
-|扩展|vgextend|lvextend|
+|扩展|vgextend|lvextend||
