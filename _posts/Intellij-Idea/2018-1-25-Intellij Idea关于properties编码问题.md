@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intellij Idea properties前台显示乱码
-categories: Intellij Idea
+categories: Intellij-Idea
 description: Intellij Idea properties前台显示乱码
 keywords: Intellij-Idea, jebarin, properties, UTF-8, 乱码, 编码
 ---
