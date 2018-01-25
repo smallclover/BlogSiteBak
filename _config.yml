@@ -36,7 +36,7 @@ navs:
 
   -
     href: /wiki/
-    label: 维基
+    label: 书籍
 
   -
     href: /links/
@@ -81,11 +81,8 @@ collections:
 #      Socials     #
 # ---------------- #
 github_username: smallclover
-douban_username: smallclover
-facebook_username: smallclover
-weibo_username: smallclover
-zhihu_username: smallclover
-twitter_username: smallclover
+facebook_username: 王顺
+zhihu_username: 梦梦的幻想乡
 
 # ---------------- #
 #      Comments    #
