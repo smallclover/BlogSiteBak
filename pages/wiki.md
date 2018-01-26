@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Wiki
+title: 书籍
 description: 人越学越觉得自己无知
-keywords: 维基, Wiki
+keywords: 书籍
 comments: false
-menu: 维基
+menu: 书籍
 permalink: /wiki/
 ---
 
-> 记多少命令和快捷键会让脑袋爆炸呢？
+> 书山有路勤为径，学海无涯苦作舟。今天你又读了哪本书了呢
 
 <ul class="listing">
 {% for wiki in site.wiki %}
