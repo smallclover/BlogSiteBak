@@ -98,7 +98,7 @@ gitment:
 # https://github.com/gitalk/gitalk#install
 gitalk:
     owner: smallclover
-    repo: gittalk
+    repo: blog-comments
     clientID: bf937482c71cbfb0affa
     clientSecret: e8268a58c3b8ee332605bbac02b8545889b5add7
 # 在使用其它评论组件时可点击显示 Disqus
