@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: http://smallclover.github.io
+url: https://smallclover.github.io
 date_format: "ordinal"
 title: smallclover
 subtitle: "每个程序员都是一位充满幻想的魔法师"
