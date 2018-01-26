@@ -15,19 +15,20 @@ permalink: /about/
 
 ## 联系
 
-* GitHub：[@smallclover](https://github.com/smallclover)
-* 博客：[{{ site.title }}]({{ site.url }})
-* segmentfault：[@smallclover](https://segmentfault.com/u/smallclover)
+{% for website in site.data.social %}
+* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
+{% endfor %}
 
 ## Skill Keywords
 
-* Software Engineer Keywords
-
+{% for category in site.data.skills %}
+### {{ category.name }}
 <div class="btn-inline">
-    {% for keyword in site.skill_software_keywords %}
-    <button class="btn btn-outline" type="button">{{ keyword }}</button>
-    {% endfor %}
+{% for keyword in category.keywords %}
+<button class="btn btn-outline" type="button">{{ keyword }}</button>
+{% endfor %}
 </div>
+{% endfor %}
 
 ## 感谢
 

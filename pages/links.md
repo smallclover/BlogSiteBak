@@ -10,6 +10,6 @@ permalink: /links/
 
 > God made relatives. Thank God we can choose our friends.
 
-* [小森](https://www.senevan.com/)
-* [smallclover](http://www.smallclover.com)
-* [帆帆](https://maho.me/)
+{% for link in site.data.links %}
+* [{{ link.name }}]({{ link.url }})
+{% endfor %}
